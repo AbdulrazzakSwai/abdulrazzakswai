@@ -73,4 +73,4 @@ Through my journey, I am working to show that **practical skills** and **online 
 
 <a href="https://www.linkedin.com/in/abdulrazzakswai/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.abdulrazzakswai.me" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/></a>
-<a href="https://wa.me/your-whatsapp-number" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/971506908136" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
