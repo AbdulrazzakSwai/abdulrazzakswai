@@ -69,7 +69,7 @@ Through my journey, I am working to show that **practical skills** and **online 
 
 ---
 
-## 📫 Contact Me
+## 📫 Get In Touch
 
 <a href="https://www.linkedin.com/in/abdulrazzakswai/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.abdulrazzakswai.me" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/></a>
