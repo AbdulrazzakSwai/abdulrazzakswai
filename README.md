@@ -17,7 +17,7 @@ This is Abdulrazzak Swai.
 
 Hello, I am Abdulrazzak Swai, a detail-oriented **cybersecurity student** and **self-driven learner**, specializing in **cyber defense analysis**, **ethical hacking**, and **web development**. My approach centers on continuous learning and practical skill application, using hands-on platforms such as **Hack The Box**, **TryHackMe**, **TCM Security**, and **freeCodeCamp** to refine my technical abilities. I consistently build projects to reinforce and expand my expertise.
 
-Through my journey, I am working to show that **practical skills** and **online certifications** can be just as valuable—**if not more**—than traditional academic paths. By focusing on **self-learning**, **hands-on experience**, and **real-world practice**, I'm proving that success does not require conventional theory-haevy learning or MCQ-based exams.
+Through my journey, I am working to show that **practical skills** and **online certifications** can be just as valuable—**if not more**—than traditional academic paths. By focusing on **self-learning**, **hands-on experience**, and **real-world practice**, I'm proving that success does not require conventional theory-heavy learning or MCQ-based exams.
 
 ---
 
