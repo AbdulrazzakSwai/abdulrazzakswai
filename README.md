@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-**5 hours of practice per day.**  
+**5 hours of learning and practicing per day.**  
 **A completed course every 3 days.**  
 **A new project every week.**  
 **From certification to certification.**
