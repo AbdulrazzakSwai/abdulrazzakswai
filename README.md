@@ -4,20 +4,26 @@
 
 ## 👤 About Me
 
-**6 hours minimum every day spent on learning and practice.**  
+**6 hours minimum of learning and practice each day.**  
 **A completed course every 3 days.**  
 **A new project every week.**  
-**From certification to certification.**
+**From certification to certification.**  
 
 This isn't fantasy.  
 This is focus.  
-This is Abdulrazzak Swai.
+This is who I am.  
 
 ---
 
-Hello, I am Abdulrazzak Swai, a detail-oriented **cybersecurity student** and **self-driven learner**, specializing in **cyber defense analysis** and **ethical hacking**, with additional skills in **web development**. My approach centers on continuous learning and practical skill application, using hands-on platforms such as **Hack The Box**, **TryHackMe**, **TCM Security**, and **freeCodeCamp** to refine my technical abilities. I consistently build projects to reinforce and expand my expertise.
+I am a self-driven cybersecurity specialist focusing on ethical hacking and cyber defense analysis, with web development skills supporting my security work. My approach is built on daily hands-on practice rather than theory alone, through high-quality platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
 
-Through my journey, I am working to show that **practical skills** and **online certifications** can be just as valuable—**if not more**—than traditional academic paths. By focusing on **self-learning**, **hands-on experience**, and **real-world practice**, I'm proving that success does not require conventional theory-heavy learning or MCQ-based exams.
+I actively advocate for practicality in the cybersecurity realm. This philosophy led me to lead a significant curriculum reform at Al Ain University, shifting from theoretical teaching to hands-on learning with real-world labs and gamified platforms, in collaboration with head cybersecurity professors.
+
+I choose to avoid "HR filter" certifications, instead focusing on hands-on certifications that mirror real cybersecurity environments. My practical focus extends to building extensive lab environments, discovering and reporting critical vulnerabilities, participating in CTF competitions, and creating projects that reinforce real-world security concepts.
+
+I believe the best cybersecurity professionals are built through hands-on practice and real challenges, not just theory or MCQ-based exams. This approach has consistently proven effective in developing genuine expertise.
+
+With 20+ years of living in the UAE, I bring cultural insights and local familiarity to my work. My commitment to excellence has earned me recognition on my University's Honor List for three consecutive semesters and a prestigious 10-year UAE Golden Residency Award.
 
 ---
 
