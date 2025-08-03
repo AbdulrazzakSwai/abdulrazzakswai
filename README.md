@@ -6,7 +6,6 @@
 
 **6 hours minimum of learning and practice each day.**  
 **A completed course every 3 days.**  
-**A new project every week.**  
 **From certification to certification.**  
 
 This isn't fantasy.  
