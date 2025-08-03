@@ -14,7 +14,7 @@ This is who I am.
 
 ---
 
-I am a self-driven cybersecurity specialist with a focus on ethical hacking and cyber defense analysis, supported by strong web development skills. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
+I am a self-driven cybersecurity specialist with a focus on ethical hacking and cyber defense analysis, supported by web development skills. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
 
 I am a strong advocate for practical, real-world learning in cybersecurity. This belief led me to help reform the cybersecurity curriculum at Al Ain University, moving away from theory-heavy teaching to hands-on labs and gamified learning, working closely with the university’s head cybersecurity professors.
 
