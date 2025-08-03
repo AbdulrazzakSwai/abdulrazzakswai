@@ -19,9 +19,9 @@ I am a self-driven cybersecurity specialist focusing on ethical hacking and cybe
 
 I actively advocate for practicality in the cybersecurity realm. This philosophy led me to lead a significant curriculum reform at Al Ain University, shifting from theoretical teaching to hands-on learning with real-world labs and gamified platforms, in collaboration with head cybersecurity professors.
 
-I choose to avoid "HR filter" certifications, instead focusing on hands-on certifications that mirror real cybersecurity environments. My practical focus extends to building extensive lab environments, discovering and reporting critical vulnerabilities, participating in CTF competitions, and creating projects that reinforce real-world security concepts.
+I choose to avoid "HR filter" theoretical certifications, instead focusing on hands-on certifications that mirror real cybersecurity environments. My practical focus extends to building extensive lab environments, discovering and reporting vulnerabilities, and participating in CTF competitions.
 
-I believe the best cybersecurity professionals are built through hands-on practice and real challenges, not just theory or MCQ-based exams. This approach has consistently proven effective in developing genuine expertise.
+I believe the best cybersecurity professionals are built through hands-on practice and real challenges, not just theory or MCQ-based exams. This approach has consistently proven effective in developing real expertise.
 
 With 20+ years of living in the UAE, I bring cultural insights and local familiarity to my work. My commitment to excellence has earned me recognition on my University's Honor List for three consecutive semesters and a prestigious 10-year UAE Golden Residency Award.
 
