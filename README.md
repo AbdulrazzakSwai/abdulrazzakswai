@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Space!
+# Welcome to My Space!
 
 ---
 
