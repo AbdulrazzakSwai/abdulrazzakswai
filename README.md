@@ -14,15 +14,13 @@ This is who I am.
 
 ---
 
-I am a self-driven cybersecurity specialist focusing on ethical hacking and cyber defense analysis, with web development skills supporting my security work. My approach is built on daily hands-on practice rather than theory alone, through high-quality platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
+I am a self-driven cybersecurity specialist with a focus on ethical hacking and cyber defense analysis, supported by strong web development skills. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
 
-I actively advocate for practicality in the cybersecurity realm. This philosophy led me to lead a significant curriculum reform at Al Ain University, shifting from theoretical teaching to hands-on learning with real-world labs and gamified platforms, in collaboration with head cybersecurity professors.
+I am a strong advocate for practical, real-world learning in cybersecurity. This belief led me to help reform the cybersecurity curriculum at Al Ain University, moving away from theory-heavy teaching to hands-on labs and gamified learning, working closely with the university’s head cybersecurity professors.
 
-I choose to avoid "HR filter" theoretical certifications, instead focusing on hands-on certifications that mirror real cybersecurity environments. My practical focus extends to building extensive lab environments, discovering and reporting vulnerabilities, and participating in CTF competitions.
+Rather than chasing "HR Filter" certifications that focus on memorization, I seek hands-on certifications that reflect real industry environments. My journey includes building lab environments, solving security challenges, reporting vulnerabilities, and competing in CTFs to keep my skills sharp and up-to-date.
 
-I believe the best cybersecurity professionals are built through hands-on practice and real challenges, not just theory or MCQ-based exams. This approach has consistently proven effective in developing real expertise.
-
-With 20+ years of living in the UAE, I bring cultural insights and local familiarity to my work. My commitment to excellence has earned me recognition on my University's Honor List for three consecutive semesters and a prestigious 10-year UAE Golden Residency Award.
+Having lived in the UAE for over 20 years, I bring deep cultural understanding and local experience to my work. My dedication has been recognized with 3 consecutive University Honor List awards and a prestigious 10-year UAE Golden Residency for academic excellence.
 
 ---
 
