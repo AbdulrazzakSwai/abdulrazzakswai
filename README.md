@@ -2,7 +2,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 **6 hours minimum of learning and practice each day.**  
 **A completed course every 3 days.**  
