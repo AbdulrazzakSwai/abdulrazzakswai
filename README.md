@@ -77,4 +77,4 @@ Having lived in the UAE for over 20 years, I bring deep cultural understanding a
 
 <a href="https://www.linkedin.com/in/abdulrazzakswai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.abdulrazzakswai.me" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/></a>
-<a href="https://tryhackme.com/p/AbdulrazzakSwai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="https://tryhackme.com/p/AbdulrazzakSwai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=666666" alt="TryHackMe"/></a>
