@@ -36,6 +36,9 @@ Having lived in the UAE for over 20 years, I bring deep cultural understanding a
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  </a>
   <a href="https://www.java.com/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
