@@ -4,7 +4,7 @@
 
 ## About Me
 
-**6 hours minimum of learning and practice each day.**  
+**6 hours minimum of cybersecurity learning and practice each day.**  
 **A completed course every 3 days.**  
 **A new security challenge solved every day.**  
 **From certification to certification.**  
