@@ -76,7 +76,7 @@ Having lived in the UAE for over 20 years, I bring deep cultural understanding a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrazzakSwai&theme=react" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrazzakSwai&layout=compact&langs_count=100&theme=react" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrazzakSwai&langs_count=100&theme=react" alt="Top Languages" height="165" />
 </p>
 
 ---
