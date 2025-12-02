@@ -90,7 +90,7 @@ Having lived in the UAE for over 20 years, I bring deep cultural understanding a
   <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/>
 </a>
 
-<a href="https://app.hackthebox.com/profile/2127139" target="_blank" rel="noopener">
+<a href="https://app.hackthebox.com/public/users/2127139" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
 </a>
 
