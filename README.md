@@ -23,7 +23,7 @@ Rather than chasing "HR Filter" theoretical certifications that rely on memoriza
 
 My journey includes building lab environments, solving security challenges, reporting vulnerabilities, and competing in CTFs to keep my skills sharp and up-to-date.
 
-Having lived in the UAE for over 20 years, I bring deep cultural understanding and local experience to my work. My dedication has been recognized with 3 consecutive University Honor List awards and a prestigious 10-year UAE Golden Residency for academic excellence.
+Having lived in the UAE for over 21 years, I bring deep cultural understanding and local experience to my work. My dedication has been recognized with 3 consecutive University Honor List awards and a prestigious 10-year UAE Golden Residency for academic excellence.
 
 ---
 
