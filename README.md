@@ -4,10 +4,11 @@
 
 ## About Me
 
-**6 hours minimum of cybersecurity learning and practice each day.**  
-**A completed course every 3 days.**  
+**6 hours minimum of cybersecurity and AI security practice each day.**  
 **A new security challenge solved every day.**  
-**From certification to certification.**  
+**A completed course or research topic every 3 days.**  
+**A new AI security project shipped every week.**  
+**From breakthrough to deployment.**  
 
 This isn't fantasy.  
 This is focus.  
@@ -15,13 +16,13 @@ This is who I am.
 
 ---
 
-I am a self-driven cybersecurity specialist with a focus on ethical hacking and SOC analysis, supported by a strong focus on AI security, including AI hacking and defense. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe where I proudly rank in the top 1%.
+I am a self-driven cybersecurity specialist focused on the intersection of modern security operations, ethical hacking, and AI security, spanning LLM vulnerability exploitation, adversarial machine learning defense, and securing AI infrastructure. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe, where I proudly rank in the top 1% on both.
 
-I am a strong advocate for practical, real-world learning in cybersecurity. This belief led me to help reform the cybersecurity curriculum at Al Ain University, moving away from theory-heavy teaching to hands-on labs and gamified learning, working closely with the university’s head cybersecurity professors.
+I am a strong advocate for practical, real-world learning in emerging technology. This belief led me to shift the cybersecurity learning methodology at Al Ain University toward practical application, moving away from theory-heavy teaching to hands-on labs and gamified learning, working closely with the university’s head cybersecurity professors.
 
-Rather than chasing "HR Filter" theoretical certifications that rely on memorization, I seek hands-on certifications that reflect real industry environments.
+Rather than chasing "HR Filter" theoretical certifications that rely on memorization, I seek hands-on certifications and technical proof-of-concepts that reflect real-world adversarial environments and next-generation AI threats.
 
-My journey includes building lab environments, solving security challenges, reporting vulnerabilities, and competing in CTFs to keep my skills sharp and up-to-date.
+My journey includes building lab environments, reverse engineering systems, red teaming AI applications, hardening intelligence pipelines, reporting vulnerabilities, and competing in CTFs to keep my skills sharp and up-to-date.
 
 Having lived in the UAE for over 21 years, I bring deep cultural understanding and local experience to my work. My dedication has been recognized with 3 consecutive University Honor List awards and a prestigious 10-year UAE Golden Residency for academic excellence.
 
