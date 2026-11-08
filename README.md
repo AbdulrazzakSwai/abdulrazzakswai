@@ -2,7 +2,7 @@
 
 ### Junior Penetration Tester | Offensive Security & AI Security
 
-I am a cybersecurity specialist focused on the intersection of offensive security, ethical hacking, and AI security. I currently work as a Junior Penetration Tester at Tatweer MEA, where I run the VAPT programme as the sole in-house pentester.
+I am a cybersecurity specialist focused on the intersection of offensive security, ethical hacking, and AI security. I currently work as a Junior Penetration Tester at TatweerMEA, where I run the VAPT programme as the sole in-house pentester.
 
 My work spans web and network pentesting, LLM and agent exploitation, and building tooling that integrates AI into real-world testing workflows. I hold the HTB Certified Penetration Testing Specialist (CPTS) and TCM Security's Practical SOC Analyst Associate (PSAA), both passed on the first attempt.
 
