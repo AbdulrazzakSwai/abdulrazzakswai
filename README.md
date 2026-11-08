@@ -1,41 +1,25 @@
-# Welcome to My Space!
+# Hi, I'm Abdulrazzak 👋
+
+### Junior Penetration Tester | Offensive Security & AI Security
+
+I am a cybersecurity specialist focused on the intersection of offensive security, ethical hacking, and AI security. I currently work as a Junior Penetration Tester at Tatweer MEA, where I run the VAPT programme as the sole in-house pentester.
+
+My work spans web and network pentesting, LLM and agent exploitation, and building tooling that integrates AI into real-world testing workflows. I hold the HTB Certified Penetration Testing Specialist (CPTS) and TCM Security's Practical SOC Analyst Associate (PSAA), both passed on the first attempt.
 
 ---
 
-## About Me
-
-**6 hours minimum of cybersecurity and AI security practice each day.**  
-**A new security challenge solved every day.**  
-**A completed course or research topic every 3 days.**  
-**A new AI security project shipped every week.**  
-**From breakthrough to deployment.**  
-
-This isn't fantasy.  
-This is focus.  
-This is who I am.  
+## 🔭 Current Focus
+*   **Integrating AI with Offensive Security:** Building local, AI-powered tooling to automate reconnaissance, vulnerability discovery, and exploitation workflows within VAPT engagements.
+*   **AI Agent Orchestration:** Integrating OpenRouter models into security projects, orchestrating agents on OpenCode, and configuring open-weight models from Hugging Face.
+*   **AI Red Teaming:** Focusing on LLM vulnerability exploitation, prompt injection, and securing AI infrastructure.
 
 ---
 
-I am a self-driven cybersecurity specialist focused on the intersection of modern security operations, ethical hacking, and AI security, spanning LLM vulnerability exploitation, adversarial machine learning defense, and securing AI infrastructure. I believe in learning by doing, using hands-on platforms like Hack The Box and TryHackMe, where I proudly rank in the top 1% on both.
-
-I am a strong advocate for practical, real-world learning in emerging technology. This belief led me to shift the cybersecurity learning methodology at Al Ain University toward practical application, moving away from theory-heavy teaching to hands-on labs and gamified learning, working closely with the university’s head cybersecurity professors.
-
-Rather than chasing "HR Filter" theoretical certifications that rely on memorization, I seek hands-on certifications and technical proof-of-concepts that reflect real-world adversarial environments and next-generation AI threats.
-
-My journey includes building lab environments, reverse engineering systems, red teaming AI applications, hardening intelligence pipelines, reporting vulnerabilities, and competing in CTFs to keep my skills sharp and up-to-date.
-
-Having lived in the UAE for over 21 years, I bring deep cultural understanding and local experience to my work. My dedication has been recognized with 3 consecutive University Honor List awards and a prestigious 10-year UAE Golden Residency for academic excellence.
-
----
-
-## 💻 Languages & Technologies
+## 💻 Core Technologies
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://devdocs.io/c/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
   <a href="https://devdocs.io/bash/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
@@ -43,29 +27,17 @@ Having lived in the UAE for over 21 years, I bring deep cultural understanding a
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   </a>
-  <a href="https://dev.java/learn/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
-  <a href="https://www.json.org/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
 </p>
 
@@ -76,25 +48,19 @@ Having lived in the UAE for over 21 years, I bring deep cultural understanding a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrazzakSwai&theme=react" alt="GitHub Streak" height="165" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrazzakSwai&langs_count=100&theme=react" alt="Top Languages" height="250" />
-</p>
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/abdulrazzakswai" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://www.abdulrazzakswai.me" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/>
 </a>
-
 <a href="https://app.hackthebox.com/public/users/2127139" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
 </a>
-
 <a href="https://tryhackme.com/p/AbdulrazzakSwai" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=666666" alt="TryHackMe"/>
 </a>
